@@ -1,0 +1,6 @@
+mitmproxy
+discord.py
+aiohttp
+requests
+pycryptodome
+protobuf-decoder
